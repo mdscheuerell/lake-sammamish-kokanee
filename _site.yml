@@ -6,3 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
